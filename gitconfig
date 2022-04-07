@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = raja.ohl@gmail.com
+	name = raja pichon
